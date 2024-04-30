@@ -1,2 +1,2 @@
 # Deltaskin-Template
-Phone Screen Templates for Custom Delta Skin
+Phone screen templates for custom deltaskin to use with [Delta Emulator](https://deltaemulatorapp.com/) app
