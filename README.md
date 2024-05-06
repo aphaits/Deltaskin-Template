@@ -8,4 +8,3 @@ Also downloadable from [Google Drive link](https://drive.google.com/drive/folder
 
 # Ergo Metal v.1
 [[https://github.com/USERNAME/REPOSITORY/blob/main/img/DS Ergo Metal.jpg]]
-[[/DS Ergo Metal.jpg]]
