@@ -7,4 +7,4 @@ Also downloadable from [Google Drive link](https://drive.google.com/drive/folder
 [Ergo Template v.1](DS Ergo Template.jpg)
 
 # Ergo Metal v.1
-[Ergo Metal v.1](assets/images/DS%20Ergo%20Metal.jpg)
+![Ergo Metal v.1](assets/images/DS%20Ergo%20Metal.jpg)
